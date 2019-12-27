@@ -1,0 +1,8 @@
+com\aisatec\model\Fruit.class
+com\aisatec\dao\OrderDAO.class
+com\aisatec\App.class
+com\aisatec\controller\OrderController.class
+com\aisatec\model\Order.class
+com\aisatec\service\OrderService.class
+com\aisatec\service\impl\OrderServiceImpl.class
+com\aisatec\model\FruitOrder.class
